@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 ORG=tedchoward
 APP_NAME=builder-dotnet
 VERSION=1.0.1
